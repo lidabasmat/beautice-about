@@ -2,7 +2,12 @@ body {
   font-family: 'Poppins', sans-serif;
   font-size: 16px;
   line-height: 1.5;
+  letter-spacing: 0.1em;
   color: #8B8B8B;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: normal;
 }
 
  img {
@@ -56,4 +61,19 @@ body {
 
 .text-gray-300 {
  color: #ABB4FF;
+}
+
+.button {
+  border-radius: 1.5rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+}
+
+.caption {
+  font-weight: 600;
+  letter-spacing: normal;
 }
