@@ -1,0 +1,59 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #8B8B8B;
+}
+
+ img {
+   max-width: 100%;
+ }
+
+ .content {
+   max-width: 1140px;
+ }
+
+ .room {
+   background-image: url('picture.png');
+   background-position: top;
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
+
+ .service {
+   background-image: url('service.png');
+   background-position: top;
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
+
+ .footer {
+   background-image: url('footer.svg');
+   background-position: top;
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
+
+.bg-red-400 {
+  background-color: #FF64AE;
+}
+
+.bg-gray-500 {
+  background-color: #091156;
+}
+
+.text-red-400 {
+  color: #FF64AE;
+}
+
+.text-gray-500 {
+ color: #091156;
+}
+
+.text-gray-400 {
+ color: #CACACA;
+}
+
+.text-gray-300 {
+ color: #ABB4FF;
+}
